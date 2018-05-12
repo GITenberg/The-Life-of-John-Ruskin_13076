@@ -1,0 +1,29 @@
+_repo: The-Life-of-John-Ruskin_13076
+_version: 0.1.0
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Collingwood, W. G. (William Gershom)
+    alias: Collingwood, William Gershom
+    birthdate: 1854
+    deathdate: 1932
+    gutenberg_agent_id: '4819'
+    url: http://www.gutenberg.org/2009/agents/4819
+    wikipedia: http://en.wikipedia.org/wiki/W._G._Collingwood
+description: ''
+gutenberg_issued: '2004-08-01'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '13076'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PR'
+- !lcsh 'Ruskin, John, 1819-1900'
+- !lcsh 'Authors, English -- 19th century -- Biography'
+title: The Life of John Ruskin
+url: http://www.gutenberg.org/ebooks/13076
